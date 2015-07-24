@@ -1,0 +1,26 @@
+{
+  "name": "virgin",
+  "version": "1.0.0",
+  "main": "virgin",
+  "keywords": [
+    "global",
+    "virgin",
+	"nodejs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hezedu/virgin.git"
+  },
+
+  "author": {
+    "name": "hezedu"
+  },
+  "dependencies": {
+  },
+  "licenses": "MIT",
+  "email": "hezedu@hotmail.com",
+  "description": "virgin",
+  "bugs": {
+    "url": "https://github.com/hezedu/virgin/issues"
+  }
+}
