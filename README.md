@@ -7,3 +7,15 @@
 没错，它什么都没有，正因如此它很广袤。
 
 不要怀疑：`npm install virgin`
+# 使用
+```javascript
+//page1
+var virgin = require('virgin');
+virgin.a='test';
+
+//page2
+var virgin = require('virgin');
+console.log(virgin.a);
+// test
+
+```
