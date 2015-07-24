@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "main": "virgin",
   "keywords": [
-    "global",
+    "noglobal",
     "virgin",
 	"nodejs"
   ],
