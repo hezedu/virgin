@@ -1,6 +1,6 @@
 {
   "name": "virgin",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "main": "virgin",
   "keywords": [
     "noglobal",
@@ -17,7 +17,7 @@
   },
   "dependencies": {
   },
-  "licenses": "MIT",
+  "license": "MIT",
   "email": "hezedu@hotmail.com",
   "description": "virgin",
   "bugs": {

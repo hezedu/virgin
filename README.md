@@ -1,5 +1,7 @@
-# virgin
+# virgin 
 一片无人开发处女地,供不愿污染global领域的noder免费使用。
+
+1.1.0更新: Object.create(null)
 # 安装
 
 ###nodejs:
